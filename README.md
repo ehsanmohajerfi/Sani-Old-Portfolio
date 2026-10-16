@@ -187,7 +187,7 @@ Review `git status` before committing to ensure that no private files or credent
 ## Author
 
 **Ehsan Mohajer**  
-Full-stack Software Developer · Jyväskylä, Finland
+Full-stack Software Developer · Jyväskylä, Finland.
 
 - Portal: [ehsanmohajer.fi](https://ehsanmohajer.fi/)
 - Studio: [sanistudio.vercel.app](https://sanistudio.vercel.app/)
