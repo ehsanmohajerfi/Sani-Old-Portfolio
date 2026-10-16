@@ -1,6 +1,6 @@
 # Sani Portal
 
-![Sani Portal logo](assets/sani-logo-dark.png)
+![Sani Portal logo](assets/sani-logo-dark.png).
 
 The central website for **Ehsan Mohajer**, a full-stack software developer based in Jyväskylä, Finland.
 
