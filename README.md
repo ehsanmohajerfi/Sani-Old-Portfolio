@@ -13,8 +13,6 @@ Sani Portal gives visitors one clear starting point: customers can continue to S
 | Destination | Purpose |
 | --- | --- |
 | [Sani Portal](https://ehsanmohajer.fi/) | Main website, selected work, contact information, articles, and navigation hub |
-| [Sani Studio](https://sanistudio.vercel.app/) | Website design, full-stack development, AI, automation, pricing, and project enquiries |
-| [Sani Portfolio](https://saniportfolio.vercel.app/) | Résumé, career history, technical experience, and detailed project case studies |
 
 The Project Tracker referenced by the portal is an internal administrative tool and is not part of the public customer experience.
 
@@ -190,8 +188,6 @@ Review `git status` before committing to ensure that no private files or credent
 Full-stack Software Developer · Jyväskylä, Finland.
 
 - Portal: [ehsanmohajer.fi](https://ehsanmohajer.fi/)
-- Studio: [sanistudio.vercel.app](https://sanistudio.vercel.app/)
-- Portfolio: [saniportfolio.vercel.app](https://saniportfolio.vercel.app/)
 - Email: [ehsanmohajer.fi@gmail.com](mailto:ehsanmohajer.fi@gmail.com)
 
 © 2026 Ehsan Mohajer. All rights reserved.
