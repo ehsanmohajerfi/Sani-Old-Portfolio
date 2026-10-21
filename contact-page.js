@@ -12,7 +12,7 @@ document.getElementById('contact-year').textContent=new Date().getFullYear();doc
 document.documentElement.dataset.theme=localStorage.getItem('preferredTheme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');
 const subpageStyle=document.createElement('link');subpageStyle.rel='stylesheet';subpageStyle.href='subpage.css';document.head.appendChild(subpageStyle);const themeStyle=document.createElement('link');themeStyle.rel='stylesheet';themeStyle.href='subpage-theme.css';document.head.appendChild(themeStyle);
 const contactNavNames={en:['Portal','Studio','Portfolio','Blog','About','Contact'],fi:['Portaali','Studio','Portfolio','Blogi','Minusta','Yhteystiedot'],fa:['پورتال','استودیو','پورتفولیو','وبلاگ','درباره من','تماس']};
-const contactNavLinks=['index.html','https://sanistudio.vercel.app/','https://saniportfolio.vercel.app/','blog.html','about.html','contact.html'];
+const contactNavLinks=['index.html','https://sanistudio.vercel.app/','https://ehsanmohajer.fi/','blog.html','about.html','contact.html'];
 const contactLanguage=document.documentElement.lang;
 document.querySelector('.contact-header nav').innerHTML=contactNavLinks.map((href,index)=>`<a href="${href}"${index===1||index===2?' target="_blank" rel="noopener"':''}${index===5?' aria-current="page"':''}>${contactNavNames[contactLanguage][index]}</a>`).join('');
 const contactTitles={en:'Contact',fi:'Yhteystiedot',fa:'تماس'};const contactBrand=document.querySelector('.contact-header .brand');contactBrand.innerHTML=`<span class="subpage-title">${contactTitles[contactLanguage]}</span>`;contactBrand.setAttribute('aria-label',contactTitles[contactLanguage]);
