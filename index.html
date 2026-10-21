@@ -219,12 +219,15 @@
   <script src="script.js"></script>
   <script src="assistant.js"></script>
   <script src="pwa.js"></script>
- <script>
+<script>
   window.addEventListener('DOMContentLoaded', () => {
-    alert('This website is no longer available. Click OK to visit the new portfolio website at ehsanmohajer.fi');
-    window.location.href = 'https://ehsanmohajer.fi';
+    const goToNewSite = confirm('This website is no longer available. Would you like to visit the new portfolio website at ehsanmohajer.fi?');
+    if (goToNewSite) {
+      window.location.href = 'https://ehsanmohajer.fi';
+    }
   });
 </script>
+
 
 
 </body>
