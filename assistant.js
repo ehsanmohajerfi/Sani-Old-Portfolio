@@ -11,19 +11,19 @@ const assistantData = {
       portfolio: 'For Ehsan’s résumé, experience and previous work, visit his Portfolio.',
       languages: 'Ehsan’s services and this website are available in English, Finnish and Persian.',
       fallback: 'I don’t have a prepared answer for that yet. You can ask about services, projects, experience, languages or contact Ehsan directly.'
-    }, links: { services:['Visit Sani Studio','https://sanistudio.vercel.app/'], projects:['View projects','https://saniportfolio.vercel.app/projects'], experience:['View Portfolio','https://saniportfolio.vercel.app/'], contact:['Go to contact form','#contact'] }
+    }, links: { services:['Visit Sani Studio','https://sanistudio.vercel.app/'], projects:['View projects','https://ehsanmohajer.fi/projects.html'], experience:['View Portfolio','https://ehsanmohajer.fi'], contact:['Go to contact form','#contact'] }
   },
   fi: {
     welcome: 'Hei! Olen paikallinen Sani-sivusto-opas. Kysy Ehsanin palveluista, projekteista, kokemuksesta tai yhteydenotosta.',
     placeholder: 'Kysy palveluista tai projekteista…', privacy: 'Toimii paikallisesti · Viestejä ei tallenneta', suggestions: ['Palvelut', 'Projektit', 'Kokemus', 'Yhteystiedot'],
     answers: { services:'Ehsan tarjoaa yrityssivustoja, full-stack-verkkosovelluksia, tekoälytyökaluja, automaatiota, uudistuksia ja teknistä tukea Sani Studion kautta.', projects:'Valittuihin töihin kuuluvat Saaren Pizza & Kebab -tilausjärjestelmä ja Keski-Suomen tekoälyavusteinen matkailualusta.', experience:'Ehsan on full-stack-ohjelmistokehittäjä, jolla on aiempaa kokemusta Project Specialist -tehtävästä. Portfolio sisältää CV:n, urahistorian ja valitut työt.', contact:'Voit lähettää sähköpostia osoitteeseen ehsanmohajer.fi@gmail.com tai käyttää tämän sivun yhteydenottolomaketta.', studio:'Kun tarvitset verkkosivuston, digitaalisen tuotteen tai haluat kehittää ideaa, tutustu Sani Studioon.', portfolio:'Ehsanin CV, kokemus ja aiemmat työt löytyvät Portfoliosta.', languages:'Palvelut ja tämä sivusto ovat saatavilla englanniksi, suomeksi ja persiaksi.', fallback:'Minulla ei ole vielä valmista vastausta tähän. Kysy palveluista, projekteista, kokemuksesta tai ota suoraan yhteyttä Ehsaniin.' },
-    links:{services:['Sani Studioon','https://sanistudio.vercel.app/'],projects:['Katso projektit','https://saniportfolio.vercel.app/projects'],experience:['Katso Portfolio','https://saniportfolio.vercel.app/'],contact:['Yhteydenottolomake','#contact']}
+    links:{services:['Sani Studioon','https://sanistudio.vercel.app/'],projects:['Katso projektit','https://ehsanmohajer.fi/projects.html'],experience:['Katso Portfolio','https://ehsanmohajer.fi'],contact:['Yhteydenottolomake','#contact']}
   },
   fa: {
     welcome: 'سلام! من راهنمای محلی وب‌سایت سانی هستم. درباره خدمات، پروژه‌ها، تجربه کاری احسان یا راه‌های تماس سؤال کنید.',
     placeholder: 'درباره خدمات یا پروژه‌ها بپرسید…', privacy: 'اجرای محلی · پیام‌ها ذخیره نمی‌شوند', suggestions: ['خدمات', 'پروژه‌ها', 'تجربه کاری', 'تماس'],
     answers:{services:'احسان از طریق استودیو سانی خدمات طراحی وب‌سایت، اپلیکیشن فول‌استک، ابزارهای هوش مصنوعی، اتوماسیون، بازطراحی و پشتیبانی فنی ارائه می‌دهد.',projects:'پروژه‌های منتخب شامل سیستم سفارش Saaren Pizza & Kebab و پلتفرم گردشگری فنلاند مرکزی با جست‌وجوی مبتنی بر هوش مصنوعی است.',experience:'احسان توسعه‌دهنده فول‌استک است و سابقه فعالیت به‌عنوان Project Specialist دارد. رزومه، مسیر شغلی و نمونه‌کارها در پورتفولیو قرار دارند.',contact:'می‌توانید به ehsanmohajer.fi@gmail.com ایمیل بزنید یا فرم درخواست تماس همین صفحه را تکمیل کنید.',studio:'برای طراحی وب‌سایت، محصول دیجیتال یا توسعه یک ایده جدید به استودیو سانی مراجعه کنید.',portfolio:'برای مشاهده رزومه، تجربه کاری و پروژه‌های احسان، پورتفولیو را ببینید.',languages:'خدمات احسان و این وب‌سایت به زبان‌های انگلیسی، فنلاندی و فارسی ارائه می‌شوند.',fallback:'هنوز پاسخ آماده‌ای برای این سؤال ندارم. می‌توانید درباره خدمات، پروژه‌ها، تجربه کاری یا تماس با احسان سؤال کنید.'},
-    links:{services:['مشاهده استودیو سانی','https://sanistudio.vercel.app/'],projects:['مشاهده پروژه‌ها','https://saniportfolio.vercel.app/projects'],experience:['مشاهده پورتفولیو','https://saniportfolio.vercel.app/'],contact:['رفتن به فرم تماس','#contact']}
+    links:{services:['مشاهده استودیو سانی','https://sanistudio.vercel.app/'],projects:['مشاهده پروژه‌ها','https://ehsanmohajer.fi/projects.html'],experience:['مشاهده پورتفولیو','https://ehsanmohajer.fi/'],contact:['رفتن به فرم تماس','#contact']}
   }
 };
 
